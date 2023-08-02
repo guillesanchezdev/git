@@ -1,2 +1,2 @@
-print("Hello World 3 v main")
+print("Hello World 3")
 
